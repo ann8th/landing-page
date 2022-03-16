@@ -63,9 +63,7 @@ button,
 }
 
 div.hero,
-div.cards,
-div.quote,
-div.action {
+div.quote {
     padding: 5% 10%;
 }
 
@@ -144,6 +142,7 @@ h1.cards {
 }
 
 div.cards {
+    padding: 2% 10%;
     display: flex;
     align-items: flex-start;
     justify-content: center;
@@ -165,6 +164,7 @@ p.author {
 
 div.action {
     margin: 5% 10%;
+    padding: 3% 5%;
     border-radius: 0.5em;
     display: flex;
     flex-direction: column;
