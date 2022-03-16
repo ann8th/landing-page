@@ -66,7 +66,7 @@ div.hero,
 div.cards,
 div.quote,
 div.action {
-    padding: 3% 10%;
+    padding: 5% 10%;
 }
 
 header {
@@ -118,9 +118,8 @@ button.hero {
 }
 
 h1.cards {
-    padding: 3% 2% 0%;
+    padding: 3% 5% 0%;
     text-align: center;
-    word-wrap: break-word;
 }
 
 .card img {
@@ -255,6 +254,18 @@ footer {
     }
 }
 
+@media screen and (max-width: 450px) {
+    body {
+        font-size: 12px;
+    }
 
+    .card p {
+        font-size: 1.2em;
+    }
+    
+    h1.cards {
+        padding: 2% 25%;
+    }
+}
 
 
