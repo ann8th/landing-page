@@ -3,7 +3,7 @@
 This is a landing page dedicated to Marcus Aurelius - the Stoic Emperor.
 
 The landing page was created applying the coding skills developed with 
-The Odin Project (TOP) - Foundation Path, and a bit of external 
+The Odin Project (TOP) - Foundations Path, and a bit of external 
 resources - youtube tutorials from Kevin Powell and Google searches. The 
 landing page project is part of TOP curriculum, and was built with HTML, 
 and CSS Flexbox.
